@@ -1,0 +1,22 @@
+text="python programming"
+  
+
+print (text[:6])
+
+
+
+print (text[7:])
+
+
+print(text[::2])
+
+string="hello"
+
+reverse_text=string[::-1]
+print(reverse_text)
+
+
+
+
+
+

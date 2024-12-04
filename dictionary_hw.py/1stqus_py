@@ -1,0 +1,6 @@
+details={"arjun":22,
+"aswin":23,
+"jojo":20,
+"jame":22,
+"abhijith":23,}
+print("age=",details["arjun"])

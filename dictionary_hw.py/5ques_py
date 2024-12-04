@@ -1,0 +1,4 @@
+moblies=["samsung","iphone","nothing"]
+diff_moblies=["s24","16pro","12pro"]
+moblie_product={moblies[i]:diff_moblies[i] for i in range(len(moblies))}
+print(moblie_product)
